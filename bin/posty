@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+#starts the Thor cli => it is restricted by thor
+require 'posty_cli/cli'
+PostyCli::CLI.start
