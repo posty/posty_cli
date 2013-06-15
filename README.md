@@ -18,9 +18,9 @@ Path:
 ~.posty.yml
 
 ```
-#this is the posty Url put here your url where the posty-api is stored
+-this is the posty Url put here your url where the posty-api is stored
 :posty_api_url: http://posty-api.herokuapp.com/api/
-#this is the version from the posty api
+-this is the version from the posty api
 :posty_api_version: v1
 ```
 
