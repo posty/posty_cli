@@ -1,3 +1,5 @@
+###posty\_cli was replaced by posty_client thanks to iaddict https://github.com/iaddict/posty_client
+
 #posty\_cli
 The posty\_cli is the command line interface of the posty softwarestack. It is developed to administrate a mailserver based on Postfix and Dovecot.
 
